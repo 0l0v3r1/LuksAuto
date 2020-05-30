@@ -1,2 +1,2 @@
 # LuksAuto
-This Script will be used to automate the encryption/decryption of Luks Containers
+This Script will be used to automate the creation, encryption and decryption of Luks Containers
